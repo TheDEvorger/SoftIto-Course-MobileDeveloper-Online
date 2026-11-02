@@ -1,0 +1,6 @@
+"Bu uygulama AI destekli bir kitap özeti çıkarır."
+"Kitabı yükle."
+"Ne olacağını gör."
+"Seçim senin."
+"Mavi Hapmı Kırmızı Hapmı"
+"Ben olsam ikisinide seçmem."
